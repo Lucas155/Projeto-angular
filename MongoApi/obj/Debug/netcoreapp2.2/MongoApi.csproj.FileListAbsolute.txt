@@ -1,0 +1,14 @@
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\bin\Debug\netcoreapp2.2\MongoApi.deps.json
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\bin\Debug\netcoreapp2.2\MongoApi.runtimeconfig.json
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\bin\Debug\netcoreapp2.2\MongoApi.runtimeconfig.dev.json
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\bin\Debug\netcoreapp2.2\MongoApi.dll
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\obj\Debug\netcoreapp2.2\MongoApi.csprojAssemblyReference.cache
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\obj\Debug\netcoreapp2.2\MongoApi.csproj.CoreCompileInputs.cache
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\obj\Debug\netcoreapp2.2\MongoApi.RazorAssemblyInfo.cache
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\obj\Debug\netcoreapp2.2\MongoApi.RazorAssemblyInfo.cs
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\obj\Debug\netcoreapp2.2\MongoApi.AssemblyInfoInputs.cache
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\obj\Debug\netcoreapp2.2\MongoApi.AssemblyInfo.cs
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\obj\Debug\netcoreapp2.2\MongoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\bin\Debug\netcoreapp2.2\MongoApi.pdb
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\obj\Debug\netcoreapp2.2\MongoApi.dll
+C:\Users\Inova-1OX2RTQ\source\repos\WebApi\MongoApi\obj\Debug\netcoreapp2.2\MongoApi.pdb
